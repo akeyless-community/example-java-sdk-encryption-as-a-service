@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.akeyless.examples.examplesdkencryptionasaservice.ExampleSdkEncryptionAsAServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.607 s - in io.akeyless.examples.examplesdkencryptionasaservice.ExampleSdkEncryptionAsAServiceApplicationTests
